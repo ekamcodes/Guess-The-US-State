@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# PyCharm project files
+.idea/
+
+# CSV output file
+Unanswered.csv
+
+# macOS files
+.DS_Store
